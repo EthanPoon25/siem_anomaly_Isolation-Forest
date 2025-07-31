@@ -1,0 +1,101 @@
+timestamp,log_level,source,message,ip_address
+2025-07-31 02:06:59,INFO,application,Connection refused,192.168.73.157
+2025-07-31 02:07:29,ERROR,auth,Connection refused,192.168.236.68
+2025-07-31 02:07:59,DEBUG,firewall,Malware signature detected,192.168.40.12
+2025-07-31 02:08:29,DEBUG,auth,System heartbeat,192.168.73.185
+2025-07-31 02:08:59,DEBUG,firewall,Anomaly score high,192.168.111.195
+2025-07-31 02:09:29,INFO,webserver,Service restarted,192.168.216.50
+2025-07-31 02:09:59,WARNING,auth,Connection refused,192.168.95.222
+2025-07-31 02:10:29,ERROR,webserver,System heartbeat,192.168.106.201
+2025-07-31 02:10:59,DEBUG,firewall,Service restarted,192.168.237.225
+2025-07-31 02:11:29,DEBUG,webserver,Connection refused,192.168.26.131
+2025-07-31 02:11:59,WARNING,firewall,Anomaly score high,192.168.14.164
+2025-07-31 02:12:29,ERROR,firewall,Connection refused,192.168.133.15
+2025-07-31 02:12:59,ERROR,firewall,File not found,192.168.154.134
+2025-07-31 02:13:29,ERROR,application,Unexpected shutdown,192.168.166.136
+2025-07-31 02:13:59,WARNING,webserver,Connection refused,192.168.225.13
+2025-07-31 02:14:29,INFO,auth,Service restarted,192.168.154.213
+2025-07-31 02:14:59,WARNING,firewall,User login failed,192.168.146.217
+2025-07-31 02:15:29,ERROR,firewall,Anomaly score high,192.168.192.57
+2025-07-31 02:15:59,ERROR,webserver,Connection refused,192.168.31.88
+2025-07-31 02:16:29,ERROR,application,System heartbeat,192.168.80.105
+2025-07-31 02:16:59,INFO,webserver,Service restarted,192.168.150.8
+2025-07-31 02:17:29,DEBUG,auth,Malware signature detected,192.168.95.107
+2025-07-31 02:17:59,WARNING,application,Service restarted,192.168.252.88
+2025-07-31 02:18:29,WARNING,firewall,System heartbeat,192.168.77.3
+2025-07-31 02:18:59,DEBUG,application,Unauthorized access attempt,192.168.246.60
+2025-07-31 02:19:29,INFO,auth,User login successful,192.168.32.229
+2025-07-31 02:19:59,WARNING,application,System heartbeat,192.168.218.110
+2025-07-31 02:20:29,WARNING,auth,Connection refused,192.168.87.93
+2025-07-31 02:20:59,DEBUG,webserver,Malware signature detected,192.168.77.111
+2025-07-31 02:21:29,WARNING,firewall,Connection refused,192.168.238.102
+2025-07-31 02:21:59,ERROR,firewall,User login failed,192.168.196.118
+2025-07-31 02:22:29,ERROR,auth,Unauthorized access attempt,192.168.81.35
+2025-07-31 02:22:59,DEBUG,application,Anomaly score high,192.168.152.92
+2025-07-31 02:23:29,WARNING,webserver,Malware signature detected,192.168.59.130
+2025-07-31 02:23:59,WARNING,auth,User login successful,192.168.61.40
+2025-07-31 02:24:29,INFO,application,User login failed,192.168.143.190
+2025-07-31 02:24:59,INFO,auth,Anomaly score high,192.168.144.154
+2025-07-31 02:25:29,WARNING,application,Service restarted,192.168.231.82
+2025-07-31 02:25:59,DEBUG,webserver,Malware signature detected,192.168.148.149
+2025-07-31 02:26:29,INFO,auth,File not found,192.168.210.77
+2025-07-31 02:26:59,ERROR,webserver,User login failed,192.168.223.175
+2025-07-31 02:27:29,WARNING,auth,Anomaly score high,192.168.55.100
+2025-07-31 02:27:59,WARNING,auth,Malware signature detected,192.168.144.148
+2025-07-31 02:28:29,ERROR,auth,Connection refused,192.168.216.146
+2025-07-31 02:28:59,INFO,webserver,Connection refused,192.168.93.230
+2025-07-31 02:29:29,ERROR,firewall,Unexpected shutdown,192.168.54.90
+2025-07-31 02:29:59,DEBUG,auth,Connection refused,192.168.193.149
+2025-07-31 02:30:29,INFO,application,Connection refused,192.168.30.157
+2025-07-31 02:30:59,INFO,firewall,Connection refused,192.168.147.62
+2025-07-31 02:31:29,DEBUG,firewall,File not found,192.168.93.5
+2025-07-31 02:31:59,INFO,webserver,Malware signature detected,192.168.25.37
+2025-07-31 02:32:29,INFO,firewall,Service restarted,192.168.243.213
+2025-07-31 02:32:59,DEBUG,auth,Service restarted,192.168.235.253
+2025-07-31 02:33:29,WARNING,application,System heartbeat,192.168.138.196
+2025-07-31 02:33:59,ERROR,webserver,Service restarted,192.168.190.2
+2025-07-31 02:34:29,WARNING,webserver,System heartbeat,192.168.17.104
+2025-07-31 02:34:59,WARNING,auth,Unauthorized access attempt,192.168.48.33
+2025-07-31 02:35:29,WARNING,webserver,Malware signature detected,192.168.39.243
+2025-07-31 02:35:59,WARNING,auth,System heartbeat,192.168.147.92
+2025-07-31 02:36:29,INFO,application,Malware signature detected,192.168.144.67
+2025-07-31 02:36:59,ERROR,auth,Unexpected shutdown,192.168.56.116
+2025-07-31 02:37:29,WARNING,application,Unexpected shutdown,192.168.120.236
+2025-07-31 02:37:59,DEBUG,auth,System heartbeat,192.168.90.142
+2025-07-31 02:38:29,WARNING,auth,Unauthorized access attempt,192.168.74.20
+2025-07-31 02:38:59,WARNING,firewall,Anomaly score high,192.168.65.158
+2025-07-31 02:39:29,WARNING,webserver,Unexpected shutdown,192.168.181.172
+2025-07-31 02:39:59,INFO,application,Service restarted,192.168.253.129
+2025-07-31 02:40:29,ERROR,webserver,System heartbeat,192.168.11.110
+2025-07-31 02:40:59,INFO,auth,Anomaly score high,192.168.209.41
+2025-07-31 02:41:29,WARNING,auth,Unexpected shutdown,192.168.56.146
+2025-07-31 02:41:59,DEBUG,webserver,Malware signature detected,192.168.184.202
+2025-07-31 02:42:29,ERROR,application,User login successful,192.168.101.102
+2025-07-31 02:42:59,INFO,auth,Anomaly score high,192.168.161.1
+2025-07-31 02:43:29,ERROR,auth,User login failed,192.168.182.43
+2025-07-31 02:43:59,ERROR,auth,Connection refused,192.168.31.18
+2025-07-31 02:44:29,DEBUG,application,User login failed,192.168.52.50
+2025-07-31 02:44:59,WARNING,firewall,User login successful,192.168.252.191
+2025-07-31 02:45:29,INFO,webserver,Service restarted,192.168.110.227
+2025-07-31 02:45:59,ERROR,application,System heartbeat,192.168.220.235
+2025-07-31 02:46:29,DEBUG,auth,Malware signature detected,192.168.210.194
+2025-07-31 02:46:59,DEBUG,auth,Malware signature detected,192.168.116.236
+2025-07-31 02:47:29,INFO,webserver,Malware signature detected,192.168.40.68
+2025-07-31 02:47:59,WARNING,application,System heartbeat,192.168.13.165
+2025-07-31 02:48:29,ERROR,webserver,Malware signature detected,192.168.250.32
+2025-07-31 02:48:59,ERROR,application,Unauthorized access attempt,192.168.132.217
+2025-07-31 02:49:29,DEBUG,application,Unexpected shutdown,192.168.238.207
+2025-07-31 02:49:59,INFO,application,User login failed,192.168.92.207
+2025-07-31 02:50:29,ERROR,application,Connection refused,192.168.106.99
+2025-07-31 02:50:59,INFO,application,File not found,192.168.191.173
+2025-07-31 02:51:29,INFO,auth,System heartbeat,192.168.35.246
+2025-07-31 02:51:59,WARNING,firewall,User login successful,192.168.232.240
+2025-07-31 02:52:29,INFO,auth,Service restarted,192.168.33.202
+2025-07-31 02:52:59,DEBUG,application,Connection refused,192.168.173.7
+2025-07-31 02:53:29,ERROR,auth,Unexpected shutdown,192.168.56.191
+2025-07-31 02:53:59,WARNING,auth,User login failed,192.168.101.152
+2025-07-31 02:54:29,DEBUG,application,Unauthorized access attempt,192.168.173.243
+2025-07-31 02:54:59,DEBUG,auth,Connection refused,192.168.80.148
+2025-07-31 02:55:29,WARNING,webserver,User login failed,192.168.132.19
+2025-07-31 02:55:59,ERROR,webserver,Unauthorized access attempt,192.168.144.25
+2025-07-31 02:56:29,DEBUG,application,Malware signature detected,192.168.137.239
